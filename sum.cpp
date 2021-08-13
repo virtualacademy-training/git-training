@@ -12,7 +12,7 @@ int main()
     cin >> a;
     cout << "Enter Second number: ";
     cin >> b;
-    cout << "Enter Second number: ";
+    cout << "Enter third number: ";
     cin >> c;
     ans = a + b + c;
     cout << "Sum is : " << ans;
