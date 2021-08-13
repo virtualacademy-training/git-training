@@ -17,7 +17,5 @@ int main() {
 
         cout<<"Factorial of " << n << " is " <<fact;
 
-
-
     return 0;
 }
